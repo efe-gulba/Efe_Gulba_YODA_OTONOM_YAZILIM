@@ -1,0 +1,4 @@
+Öncelikle py dosyasını bilgisayarınıza indirin.  
+VS Code da bu dosyayı açabilirsiniz.  
+Vs code yerine cmd komut pencerisinden dosya açılabilir.  
+İndirilen dosyayı masaüstüne attıktan sonra cd desktop komutunu girin ve sonra python filename.py yazarak dosyayı bu komut penceresinde çalıştırabilirsiniz.
